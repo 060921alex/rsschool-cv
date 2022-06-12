@@ -1,1 +1,1 @@
-# https://github.com/060921alex/rsschool-ch
+# https://github.com/060921alex/rsschool-cv
